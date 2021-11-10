@@ -1,0 +1,15 @@
+.body{
+    background-image: url('https://media4.giphy.com/media/2tNvsKkc0qFdNhJmKk/giphy.gif');
+    background-size: 150%;
+    
+    min-height: 100vh;
+    width: auto;
+    height: auto;
+    padding:0;
+    margin:0;
+}
+
+.reset{
+    margin-left: 25%;
+}
+
